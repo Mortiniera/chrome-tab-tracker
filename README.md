@@ -9,7 +9,7 @@
 ---
 
 ## 🎥 Demo Screenshot
-![Inactive Tab Tracker](<img src="images/demo.png">)
+![Inactive Tab Tracker](https://raw.githubusercontent.com/Mortiniera/chrome-tab-tracker/main/images/demo.png)
 
 ---
 
