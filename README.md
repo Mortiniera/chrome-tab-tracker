@@ -9,7 +9,7 @@
 ---
 
 ## 🎥 Demo Screenshot
-![Inactive Tab Tracker](<img src="../main/images/demo.png">)
+![Inactive Tab Tracker](<img src="images/demo.png">)
 
 ---
 
