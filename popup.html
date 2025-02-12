@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Tab Tracker</title>
+    <link rel="stylesheet" href="popup.css">
+    <script defer src="popup.js"></script>
+</head>
+
+<body>
+    <div class="container">
+        <img src="icons/icon-128.png" alt="Inactive Tab Tracker Logo" class="logo">
+
+        <h2 class="title">Inactive Tabs Tracker</h2>
+
+        <p class="description">
+            This extension helps you manage inactive tabs by tracking their last usage time.
+        </p>
+        <p class="description">
+            Select a time threshold and close tabs that haven't been used for that period.
+        </p>
+
+        <select id="threshold">
+            <option value="30000">30 Seconds</option>
+            <option value="60000">1 Minute</option>
+            <option value="1800000">30 Minutes</option>
+            <option value="14400000">4 Hours</option>
+            <option value="86400000" selected>1 Day</option>
+            <option value="172800000">2 Days</option>
+            <option value="604800000">7 Days</option>
+            <option value="2592000000">30 Days</option>
+        </select>
+        <div id="tab-list"></div>
+    </div>
+</body>
+
+</html>
