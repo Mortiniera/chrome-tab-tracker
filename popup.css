@@ -1,8 +1,7 @@
 /* General Styling */
 body {
     font-family: 'Arial', sans-serif;
-    background: #F5F5F5;
-    /* Light Gray */
+    background: #ffffff;
     color: #333;
     width: 350px;
     padding: 15px;
@@ -35,7 +34,7 @@ h2 {
 }
 
 select {
-    background: #E0E0E0;
+    background: #ffffff;
     color: #333;
     border: 1px solid #999;
     border-radius: 8px;
@@ -51,7 +50,7 @@ select {
 .tab-item {
     display: flex;
     align-items: center;
-    background: #E0E0E0;
+    background: #ffffff;
     padding: 10px;
     margin: 5px 0;
     border-radius: 8px;
@@ -66,7 +65,7 @@ select {
 }
 
 .close-btn {
-    background: #d69e1b;
+    background: #184801;
     color: white;
     border: none;
     padding: 5px 10px;

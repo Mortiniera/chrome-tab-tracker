@@ -1,4 +1,4 @@
-# 🛠️ Contributing to Inactive Tab Tracker
+# 🛠️ Contributing to Inactive Tab Tracker - Chrome Extension
 
 Thank you for considering contributing to this project! 🚀 Please follow these guidelines to ensure a smooth collaboration.
 
