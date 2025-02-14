@@ -25,7 +25,7 @@
 ## 🛠 Installation Guide
 
 ### **🔹 Install from Chrome Web Store (Recommended)**
-> Coming Soon... [🔗 Link will be added after publishing]
+> [🔗 Chrome Web store Extension](https://chromewebstore.google.com/detail/inactive-tab-tracker/idcgkjadngcocaiboalfjahkbokngfnb)
 
 ### **🔹 Manual Installation**
 1. **Clone** the repository:
